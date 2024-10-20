@@ -8,7 +8,7 @@ Soy *Valentina García*, estudio Admin de Empresas en **UTADEO Bogotá**, les s�
 
 
 
-### Me encanta la materia Analitica de Negocios y su relación con otras asignaturas!
+### Me encanta la materia Analítica de Negocios y su relación con otras asignaturas!
 
 Es muy top porque integra los fundamentos básicos de los métodos cuantitativos para analizar datos y tomar mejores decisiones en las organizaciones. En general nos hemos enfocado en:
 
